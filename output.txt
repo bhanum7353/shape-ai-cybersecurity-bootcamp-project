@@ -1,0 +1,35 @@
+location: Bengaluru
+Current temperature is: 23.80 deg C
+Current weather desc  : few clouds
+Current Humidity      : 78 %
+Current wind speed    : 0.51 km/h
+location: Kolkata
+Current temperature is: 28.97 deg C
+Current weather desc  : haze
+Current Humidity      : 94 %
+Current wind speed    : 1.54 km/h
+location: delhi
+Current temperature is: 34.05 deg C
+Current weather desc  : haze
+Current Humidity      : 36 %
+Current wind speed    : 0 km/h
+location: jaipur
+Current temperature is: 32.62 deg C
+Current weather desc  : haze
+Current Humidity      : 40 %
+Current wind speed    : 3.09 km/h
+location: jammu
+Current temperature is: 32.17 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 26 %
+Current wind speed    : 3.26 km/h
+location: bihar
+Current temperature is: 31.06 deg C
+Current weather desc  : clear sky
+Current Humidity      : 48 %
+Current wind speed    : 2.06 km/h
+location: himachal pradesh
+Current temperature is: 19.69 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 65 %
+Current wind speed    : 2.13 km/h
